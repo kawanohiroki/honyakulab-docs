@@ -1,11 +1,17 @@
 # Table of contents
 
-## はじめに
+## test
 
-* [このドキュメントについて](README.md)
+* [通訳翻訳者のためのAIリテラシー1](README.md)
+* [通訳翻訳者のためのAIリテラシー2](test/notamenoairiterash2.md)
+* [通訳翻訳者のためのAIリテラシー3](test/notamenoairiterash3.md)
+* [通訳翻訳者のためのAIリテラシー4](test/notamenoairiterash4.md)
+
+## はじめに
 
 ***
 
+* [このドキュメントについて](readme.md)
 * [エンタープライズの課題](entpuraizuno/README.md)
   * [AI翻訳時代のペイン・ポイント](docs/pain-points/README.md)
   * [ワークフロー可視化の欠如](docs/pain-points/workflow-visibility.md)
