@@ -1,18 +1,19 @@
-# 翻訳ラボ：Language Technology Platform
+# Table of contents
 
 ## はじめに
 
 * [このドキュメントについて](README.md)
 
-## エンタープライズの課題
+***
 
-* [AI翻訳時代のペイン・ポイント](docs/pain-points/README.md)
-* [ワークフロー可視化の欠如](docs/pain-points/workflow-visibility.md)
-* [AI統合ポイントの不明瞭性](docs/pain-points/ai-integration.md)
-* [品質管理プロセスの属人化](docs/pain-points/quality-management.md)
-* [ワークフロー設計知識の不在](docs/pain-points/workflow-design-knowledge.md)
-* [ベンダーロックインとシステム依存](docs/pain-points/vendor-lockin.md)
-* [ナレッジ蓄積の停滞](docs/pain-points/knowledge-stagnation.md)
+* [エンタープライズの課題](entpuraizuno/README.md)
+  * [AI翻訳時代のペイン・ポイント](docs/pain-points/README.md)
+  * [ワークフロー可視化の欠如](docs/pain-points/workflow-visibility.md)
+  * [AI統合ポイントの不明瞭性](docs/pain-points/ai-integration.md)
+  * [ワークフロー設計知識の不在](docs/pain-points/workflow-design-knowledge.md)
+  * [ベンダーロックインとシステム依存](docs/pain-points/vendor-lockin.md)
+  * [ナレッジ蓄積の停滞](docs/pain-points/knowledge-stagnation.md)
+  * [品質管理プロセスの属人化](docs/pain-points/quality-management.md)
 
 ## 翻訳ラボのバリュープロポジション
 
@@ -35,3 +36,5 @@
 * [実装ロードマップ 2026](docs/roadmap/README.md)
 * [KPI設定](docs/roadmap/kpi.md)
 * [リスクと対応策](docs/roadmap/risks.md)
+
+## エンタープライズの課題 <a href="#pains" id="pains"></a>
