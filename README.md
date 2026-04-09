@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1516247524857-8dc5f4786cb3?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU3MjY1NzB8&ixlib=rb-4.1.0&q=85
+coverY: 0
+---
+
 # このドキュメントについて
 
 > **翻訳ラボは、翻訳を売らない。ワークフロー設計能力を売る。**
