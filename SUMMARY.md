@@ -7,6 +7,10 @@
 * [通訳翻訳者のためのAIリテラシー3](test/notamenoairiterash3.md)
 * [通訳翻訳者のためのAIリテラシー4](test/notamenoairiterash4.md)
 
+***
+
+* [ドキュメント業界の最前線レポート「State of Docs 2026」を読む——翻訳業界への示唆](dokyumentonoreptostate-of-docs-2026womuheno.md)
+
 ## はじめに
 
 ***
@@ -44,7 +48,3 @@
 * [リスクと対応策](docs/roadmap/risks.md)
 
 ## エンタープライズの課題 <a href="#pains" id="pains"></a>
-
-***
-
-* [ドキュメント業界の最前線レポート「State of Docs 2026」を読む——翻訳業界への示唆](dokyumentonoreptostate-of-docs-2026womuheno.md)
