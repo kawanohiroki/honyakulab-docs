@@ -48,3 +48,7 @@
 * [リスクと対応策](docs/roadmap/risks.md)
 
 ## エンタープライズの課題 <a href="#pains" id="pains"></a>
+
+***
+
+* [AIがドキュメントを読む時代へ——GitBookが提示した「フィードバックループを閉じる」戦略](aigadokyumentowomuhegitbookgashitafdobakkurpuwojiru.md)
