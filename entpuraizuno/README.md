@@ -1,5 +1,5 @@
 ---
-icon: kitchen-set
+icon: face-anguished
 ---
 
 # エンタープライズの課題
