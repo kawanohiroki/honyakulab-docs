@@ -2,15 +2,12 @@
 
 ## test
 
-* [通訳翻訳者のためのAIリテラシー1](README.md)
+* [ドキュメント業界の最前線レポート「State of Docs 2026」を読む——翻訳業界への示唆](README.md)
+* [通訳翻訳者のためのAIリテラシー1](test/notamenoairiterash1/README.md)
+  * [AIがドキュメントを読む時代へ——GitBookが提示した「フィードバックループを閉じる」戦略](test/notamenoairiterash1/aigadokyumentowomuhegitbookgashitafdobakkurpuwojiru.md)
 * [通訳翻訳者のためのAIリテラシー2](test/notamenoairiterash2.md)
 * [通訳翻訳者のためのAIリテラシー3](test/notamenoairiterash3.md)
 * [通訳翻訳者のためのAIリテラシー4](test/notamenoairiterash4.md)
-
-***
-
-* [ドキュメント業界の最前線レポート「State of Docs 2026」を読む——翻訳業界への示唆](dokyumentonoreptostate-of-docs-2026womuheno.md)
-* [AIがドキュメントを読む時代へ——GitBookが提示した「フィードバックループを閉じる」戦略](aigadokyumentowomuhegitbookgashitafdobakkurpuwojiru.md)
 
 ## はじめに
 
