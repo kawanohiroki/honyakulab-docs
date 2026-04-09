@@ -38,4 +38,4 @@ TMS、MT、GenAI、MTPE、用語管理——言語業務を支えるツールは
 
 > ワークフロー全体を一元的に可視化し、各ステップの役割・データフロー・品質チェックポイントを明確にするプラットフォームを提供する。
 
-詳細は[ワークフロー可視化ツール](../platform/workflow-visualization.md)をご覧ください。
+詳細は[ワークフロー可視化ツール](../docs/platform/workflow-visualization.md)をご覧ください。

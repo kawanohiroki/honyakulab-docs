@@ -1,4 +1,5 @@
 ---
+icon: face-anguished
 cover: >-
   https://images.unsplash.com/photo-1773638381219-af4fa81c64ed?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU2MzY1NTl8&ixlib=rb-4.1.0&q=85
 coverY: 0
@@ -34,4 +35,4 @@ AI翻訳ツールの急速な普及により、エンタープライズの言語
 
 ***
 
-これらの課題に対して、翻訳ラボがどう応えるかは[バリュープロポジション](../../barypuropojishon/value-proposition.md)をご覧ください。
+これらの課題に対して、翻訳ラボがどう応えるかは[バリュープロポジション](../barypuropojishon/value-proposition.md)をご覧ください。
