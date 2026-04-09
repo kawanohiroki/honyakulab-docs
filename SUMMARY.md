@@ -1,7 +1,7 @@
 # Table of contents
 
 * [このドキュメントについて](README.md)
-* [AI翻訳時代のペイン・ポイント](pain-points/README.md)
+* [AI翻訳時代の新しい課題](pain-points/README.md)
   * [ワークフロー可視化の欠如](pain-points/workflow-visibility.md)
   * [AI統合ポイントの不明瞭性](pain-points/ai-integration.md)
   * [品質管理プロセスの属人化](pain-points/quality-management.md)
