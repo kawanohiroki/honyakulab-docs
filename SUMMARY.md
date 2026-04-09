@@ -1,18 +1,6 @@
 # Table of contents
 
-## test
-
-* [ドキュメント業界の最前線レポート「State of Docs 2026」を読む——翻訳業界への示唆](README.md)
-* [AIがドキュメントを読む時代へ——GitBookが提示した「フィードバックループを閉じる」戦略](test/aigadokyumentowomuhegitbookgashitafdobakkurpuwojiru.md)
-* [インフォグラフィックス比較](test/infogurafikkusu/README.md)
-  * [通訳翻訳者のためのAIリテラシー1](test/infogurafikkusu/notamenoairiterash1.md)
-  * [通訳翻訳者のためのAIリテラシー2](test/infogurafikkusu/notamenoairiterash2.md)
-  * [通訳翻訳者のためのAIリテラシー3](test/infogurafikkusu/notamenoairiterash3.md)
-  * [通訳翻訳者のためのAIリテラシー4](test/infogurafikkusu/notamenoairiterash4.md)
-
-***
-
-* [このドキュメントについて](readme.md)
+* [このドキュメントについて](README.md)
 * [エンタープライズの課題](entpuraizuno/README.md)
   * [AI翻訳時代のペイン・ポイント](docs/pain-points/README.md)
   * [ワークフロー可視化の欠如](docs/pain-points/workflow-visibility.md)
@@ -37,3 +25,11 @@
   * [実装ロードマップ 2026](docs/roadmap/README.md)
   * [KPI設定](docs/roadmap/kpi.md)
   * [リスクと対応策](docs/roadmap/risks.md)
+* [テストセクション](tesutosekushon/README.md)
+  * [ドキュメント業界の最前線レポート「State of Docs 2026」を読む——翻訳業界への示唆](tesutosekushon/dokyumentonoreptostate-of-docs-2026womuheno.md)
+  * [AIがドキュメントを読む時代へ——GitBookが提示した「フィードバックループを閉じる」戦略](tesutosekushon/aigadokyumentowomuhegitbookgashitafdobakkurpuwojiru.md)
+  * [インフォグラフィックス比較](tesutosekushon/infogurafikkusu/README.md)
+    * [通訳翻訳者のためのAIリテラシー1](tesutosekushon/infogurafikkusu/notamenoairiterash1.md)
+    * [通訳翻訳者のためのAIリテラシー2](tesutosekushon/infogurafikkusu/notamenoairiterash2.md)
+    * [通訳翻訳者のためのAIリテラシー3](tesutosekushon/infogurafikkusu/notamenoairiterash3.md)
+    * [通訳翻訳者のためのAIリテラシー4](tesutosekushon/infogurafikkusu/notamenoairiterash4.md)
