@@ -3,11 +3,12 @@
 ## test
 
 * [ドキュメント業界の最前線レポート「State of Docs 2026」を読む——翻訳業界への示唆](README.md)
-* [通訳翻訳者のためのAIリテラシー1](test/notamenoairiterash1/README.md)
-  * [AIがドキュメントを読む時代へ——GitBookが提示した「フィードバックループを閉じる」戦略](test/notamenoairiterash1/aigadokyumentowomuhegitbookgashitafdobakkurpuwojiru.md)
-* [通訳翻訳者のためのAIリテラシー2](test/notamenoairiterash2.md)
-* [通訳翻訳者のためのAIリテラシー3](test/notamenoairiterash3.md)
-* [通訳翻訳者のためのAIリテラシー4](test/notamenoairiterash4.md)
+* [AIがドキュメントを読む時代へ——GitBookが提示した「フィードバックループを閉じる」戦略](test/aigadokyumentowomuhegitbookgashitafdobakkurpuwojiru.md)
+* [インフォグラフィックス比較](test/infogurafikkusu/README.md)
+  * [通訳翻訳者のためのAIリテラシー1](test/infogurafikkusu/notamenoairiterash1.md)
+  * [通訳翻訳者のためのAIリテラシー2](test/infogurafikkusu/notamenoairiterash2.md)
+  * [通訳翻訳者のためのAIリテラシー3](test/infogurafikkusu/notamenoairiterash3.md)
+  * [通訳翻訳者のためのAIリテラシー4](test/infogurafikkusu/notamenoairiterash4.md)
 
 ## はじめに
 

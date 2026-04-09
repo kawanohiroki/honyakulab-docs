@@ -17,13 +17,13 @@ layout:
     visible: true
 ---
 
-# 通訳翻訳者のためのAIリテラシー3
+# 通訳翻訳者のためのAIリテラシー2
 
 > AI時代に言語専門家として生き残るために——知識・技術・倫理の三位一体
 
 ***
 
-<figure><img src="../.gitbook/assets/インフォグラフィックス3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/インフォグラフィックス2.png" alt=""><figcaption></figcaption></figure>
 
 ### はじめに
 
