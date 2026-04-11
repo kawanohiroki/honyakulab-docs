@@ -40,3 +40,4 @@
   * [第５回　知見を体系化する ― GitBookによるアーカイブの試み](t-cafe-no/wosuru-gitbookniyorukaibunomi.md)
 * [言語業界トレンド](torendo/README.md)
   * [Slator Watch](torendo/slator-watch.md)
+* [リーガル・エシカル](rgarueshikaru.md)
