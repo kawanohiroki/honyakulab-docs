@@ -14,6 +14,7 @@
   * [競合との差別化](barypuropojishon/differentiation.md)
   * [競合優位性の源泉](barypuropojishon/competitive-advantage.md)
 * [プラットフォーム](purattofmu/README.md)
+  * [このセクションの心得](purattofmu/konosekushonno.md)
   * [AI統合設計フレームワーク](docs/platform/ai-integration-framework.md)
   * [機能概要](docs/platform/README.md)
   * [ワークフロー可視化ツール](docs/platform/workflow-visualization.md)
