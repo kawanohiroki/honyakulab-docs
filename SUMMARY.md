@@ -1,6 +1,7 @@
 # Table of contents
 
 * [このドキュメントについて](README.md)
+* [AI言語サービスの基礎](aisbisuno.md)
 * [AI翻訳時代の新しい課題](pain-points/README.md)
   * [ワークフロー可視化の欠如](pain-points/workflow-visibility.md)
   * [AI統合ポイントの不明瞭性](pain-points/ai-integration.md)
